@@ -8,6 +8,6 @@ npm intall
 ```
 
 Ejecutar la aplicacion con el siguiente comando:
-````
+```
 node app --base=10 --limite=5 // El flag --limite es opcional
 ```
